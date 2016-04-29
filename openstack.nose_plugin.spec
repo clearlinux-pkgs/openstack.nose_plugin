@@ -4,7 +4,7 @@
 #
 Name     : openstack.nose_plugin
 Version  : 0.11
-Release  : 7
+Release  : 8
 URL      : https://pypi.python.org/packages/source/o/openstack.nose_plugin/openstack.nose_plugin-0.11.tar.gz
 Source0  : https://pypi.python.org/packages/source/o/openstack.nose_plugin/openstack.nose_plugin-0.11.tar.gz
 Summary  : openstack run_tests.py style output for nosetests
